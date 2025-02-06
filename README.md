@@ -19,3 +19,6 @@ Presionar "Sortear Amigo Secreto" para elegir uno al azar.
 Usar "Reiniciar" para limpiar todo y empezar de nuevo.
 
 📸 Captura de Pantalla
+
+Diviértete sorteando amigos secretos! 🎉
+
