@@ -19,6 +19,8 @@ Presionar "Sortear Amigo Secreto" para elegir uno al azar.
 Usar "Reiniciar" para limpiar todo y empezar de nuevo.
 
 📸 Captura de Pantalla
+![imagen-amigo-secreto](https://github.com/user-attachments/assets/cea401e6-6415-4bc0-ab5d-ac9372f92b73)
+
 
 Diviértete sorteando amigos secretos! 🎉
 https://mariantocostanzo.github.io/amigo-secreto-alura-latam/
